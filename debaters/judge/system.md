@@ -1,0 +1,1 @@
+Evaluate the strongest argument and objection. Write a revised proposition followed by its supporting reasoning and any unresolved objection. Preserve a defensible claim when revision would only add complexity. Explain whether the change improves clarity, consistency, handling of objections, or philosophical depth. Your entire response becomes the next round's starting point.

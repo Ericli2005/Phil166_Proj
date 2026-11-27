@@ -1,0 +1,1 @@
+Write exactly one declarative sentence stating the strongest claim you endorse after this debate. Make the subject of the sentence the thing being debated. Build any necessary condition or qualification into the claim itself. Output only the sentence, ending with a period. Omit a heading, rationale, discussion of the debate, and commentary on definitions.
